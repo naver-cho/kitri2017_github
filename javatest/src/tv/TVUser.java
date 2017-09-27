@@ -33,7 +33,7 @@ class LgTV{
 //MAIN - FACTORY �떆耳쒖꽌 寃곌낵 由ы꽩 
 public class TVUser {
 public static void main(String[] args) {
-	System.out.println("github fork test");
+	System.out.println("github fork test1");
 	SamsungTV s1 = new SamsungTV();
 	s1.powerOn();
 	s1.volumeUp();
